@@ -1,6 +1,6 @@
 # GEX634 Tópicos especiais em computação XII
 
-Repositório criado para armazenar meus trabalhos e materiais de estudo referentes ao componente curricular optativo Técnicas avançadas de programação cursado no curso de Bacharel em Ciência da computação na Universidade Federal da Fronteira Sul, campus Chapecó/SC.
+Repositório criado para armazenar meus exercícios e trabalho referentes ao componente curricular optativo Técnicas avançadas de programação cursado no curso de Bacharel em Ciência da computação na Universidade Federal da Fronteira Sul, campus Chapecó/SC.
 
 ## Listas ##
 01. [Lista](https://github.com/ruanpato/gex634/01Lista) 03/08/2019
