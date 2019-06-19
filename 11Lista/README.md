@@ -5,7 +5,7 @@
   * **Problemas:**
     * [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
     * [1602](https://www.urionlinejudge.com.br/judge/pt/problems/view/1602) - Hiperprimos
-    * [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria
+    * [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria - [[Solução]](https://github.com/ruanpato/gex634/blob/master/11Lista/1634uri.cpp)
     * [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
 
 ## Ferramentas utilizadas
