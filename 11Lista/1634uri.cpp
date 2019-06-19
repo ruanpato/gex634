@@ -9,7 +9,7 @@ int mdc(int a, int b);
 int main(){
 	int n, m, i, j, last_m[11234][31], soma_rodada[31];
 	while(true){
-		memset(soma_rodada, 0, 31);
+		memset(soma_rodada, 0, sizeof(soma_rodada));
 		scanf("%d %d", &n, &m);
 		if(n==0 && m==0)	break;
 
@@ -20,7 +20,7 @@ int main(){
 			}
 		}
 
-		for(i=0, j=m; i < n; i++){
+		for(i=0, j=m-1; i < n; i++){
 			if(soma_rodada[j]==0){
 				i= -1; j--; // Faz com que na próxima iteração i seja 0/Recua uma posição na soma
 			}else{
