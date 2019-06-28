@@ -3,11 +3,11 @@
 **Apresentação 06/19/2019(mm/dd/yyyy)**
 * [URI Online Judge](https://www.urionlinejudge.com.br)
   * **Problemas:**
-    * [1356](https://www.urionlinejudge.com.br/judge/pt/problems/view/1356) - Júpiter Ataca!
-    * [1602](https://www.urionlinejudge.com.br/judge/pt/problems/view/1602) - Hiperprimos
-    * [1634](https://www.urionlinejudge.com.br/judge/pt/problems/view/1634) - Outra Loteria
-    * [1831](https://www.urionlinejudge.com.br/judge/pt/problems/view/1831) - Dia Difícil de Trabalho
-    * [1904](https://www.urionlinejudge.com.br/judge/pt/problems/view/1904) - Par ou Ímpar 2.0
+    * [1127](https://www.urionlinejudge.com.br/judge/pt/problems/view/1127) - Plágio Musical
+    * [1284](https://www.urionlinejudge.com.br/judge/pt/problems/view/1284) - Digitando no Telefone Celular
+    * [1406](https://www.urionlinejudge.com.br/judge/pt/problems/view/1406) - Jukebox
+    * [1491](https://www.urionlinejudge.com.br/judge/pt/problems/view/1491) - Linguagem de Blogger
+    * [1859](https://www.urionlinejudge.com.br/judge/pt/problems/view/1859) - Arqueologia Congelante
 
 ## Ferramentas utilizadas
 
