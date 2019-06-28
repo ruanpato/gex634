@@ -8,7 +8,8 @@ Geometria computacional
     * path compreenssion.
     * PD.
 	* Produto vetorial para definir relação de ordem de segmentos.
-  * **Convex Hull**
+  * **UVA [109](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&itemid=8&page=show_problem&problem=45)**
+    * **Convex Hull**
     * Produto escalar para calcular os ângulos do pivô aos demais pontos. || ordernar os pontos usando produto vetorial e o qsort(por exemplo) como no código encontrado neste repositório.
     * Sempre verifica o sentido da rotação.
     * Deixar os possíveis pontos colineares no poligono, e só retirar após ter montado o mesmo e também retirar copiando o poligono para outro vetor(representação).
